@@ -1,0 +1,47 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "size": "extraLarge",
+              "weight": "Bolder",
+              "color": "Good",
+              "text": "List of Public Holidays"
+            }
+          ],
+          "width": "auto"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "ImageSet",
+              "images": [
+                {
+                  "type": "Image",
+                  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGLJJkx95NvFRO6S1VNrUVwXQye3hVyEkECzcNsp9A0I07Q02O",
+                  "size": "small"
+                }
+              ]
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    },
+    {
+      "type": "FactSet",
+      "separator": true,
+      "height": "stretch",
+      "facts": []
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.0"
+}

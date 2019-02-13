@@ -1,0 +1,159 @@
+{
+  "holidays" : [{
+    "name":  "New Year's Day",
+    "date":  "1",
+    "month": "1",
+    "year":  "2019",
+    "type":  "Fixed"
+  },{
+    "name":  "Makar Sankranti",
+    "date":  "14",
+    "month": "1",
+    "year":  "2019",
+    "type":  "Flexible"
+  },{
+    "name":  "Pongal",
+    "date":  "15",
+    "month": "1",
+    "year":  "2019",
+    "type":  "Flexible"
+  },{
+    "name":  "Republic Day",
+    "date":  "26",
+    "month": "1",
+    "year":  "2019",
+    "type":  "Weekend"
+  },{
+    "name":  "Vasant Panchami",
+    "date":  "10",
+    "month": "2",
+    "year":  "2019",
+    "type":  "Weekend"
+  },{
+    "name":  "Maha Shivratri",
+    "date":  "4",
+    "month": "3",
+    "year":  "2019",
+    "type":  "Flexible"
+  },{
+    "name":  "Holi",
+    "date":  "21",
+    "month": "3",
+    "year":  "2019",
+    "type":  "Fixed"
+  },{
+    "name":  "Ram Navami",
+    "date":  "13",
+    "month": "4",
+    "year":  "2019",
+    "type":  "Weekend"
+  },{
+    "name":  "Vaisakhi",
+    "date":  "14",
+    "month": "4",
+    "year":  "2019",
+    "type":  "Weekend"
+  },{
+    "name":  "Good Friday",
+    "date":  "19",
+    "month": "4",
+    "year":  "2019",
+    "type":  "Flexible"
+  },{
+    "name":  "Nagarro's Day of Reason",
+    "date":  "24",
+    "month": "5",
+    "year":  "2019",
+    "type":  "Flexible"
+  },{
+    "name":  "Idul-Fitr",
+    "date":  "5",
+    "month": "6",
+    "year":  "2019",
+    "type":  "Flexible"
+  },{
+    "name":  "Idul-Juha",
+    "date":  "12",
+    "month": "8",
+    "year":  "2019",
+    "type":  "Flexible"
+  },{
+    "name":  "Independence Day and Raksha Bandhan",
+    "date":  "15",
+    "month": "8",
+    "year":  "2019",
+    "type":  "Fixed"
+  },{
+    "name":  "Janmashtami",
+    "date":  "24",
+    "month": "8",
+    "year":  "2019",
+    "type":  "Weekend"
+  },{
+    "name":  "Ganesh Chaturthi",
+    "date":  "2",
+    "month": "9",
+    "year":  "2019",
+    "type":  "Flexible"
+  },{
+    "name":  "Onam",
+    "date":  "11",
+    "month": "9",
+    "year":  "2019",
+    "type":  "Flexible"
+  },{
+    "name":  "Gandhi Jayanti",
+    "date":  "2",
+    "month": "10",
+    "year":  "2019",
+    "type":  "Fixed"
+  },{
+    "name":  "Dussehra",
+    "date":  "8",
+    "month": "10",
+    "year":  "2019",
+    "type":  "Fixed"
+  },{
+    "name":  "Diwali",
+    "date":  "27",
+    "month": "10",
+    "year":  "2019",
+    "type":  "Weekend"
+  },{
+    "name":  "Diwali",
+    "date":  "28",
+    "month": "10",
+    "year":  "2019",
+    "type":  "Fixed"
+  },{
+    "name":  "Bhai Dooj",
+    "date":  "29",
+    "month": "10",
+    "year":  "2019",
+    "type":  "Flexible"
+  },{
+    "name":  "Guru Nanak Jayanti",
+    "date":  "12",
+    "month": "11",
+    "year":  "2019",
+    "type":  "Flexible"
+  },{
+    "name":  "Christmas",
+    "date":  "25",
+    "month": "12",
+    "year":  "2019",
+    "type":  "Fixed"
+  },{
+    "name":  "General Election Day",
+    "date":  "To Be Decided",
+    "month": "To Be Decided",
+    "year":  "2019",
+    "type":  "Flexible"
+  },{
+    "name":  "Haryana Election Day",
+    "date":  "To Be Decided",
+    "month": "To Be Decided",
+    "year":  "2019",
+    "type":  "Flexible"
+  }]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "TextBlock",
+      "size": "Large",
+      "weight": "Bolder",
+      "text": "Create Leave Record"
+    },
+    {
+      "type": "TextBlock",
+      "text": "if single day leave record then enter start and end date as same"
+    },
+    {
+      "type": "Container",
+      "items": [
+        {
+          "type": "TextBlock",
+          "text": "Start Date : "
+        },
+        {
+          "type": "Input.Date",
+          "id": "startDate"
+        },
+        {
+          "type": "TextBlock",
+          "text": "End Date : "
+        },
+        {
+          "type": "Input.Date",
+          "id": "endDate"
+        },
+        {
+          "type": "TextBlock",
+          "text": "Reason : "
+        },
+        {
+          "type": "Input.Text",
+          "id": "reason",
+          "placeholder": "ill/other"
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Submit"
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.0"
+}

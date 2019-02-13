@@ -1,0 +1,26 @@
+{
+    "name": "Leave Management",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "id": "1"
+        },
+        {
+            "type": "luis",
+            "name": "leaveManagement",
+            "appId": "af42b33c-08f7-4ecd-8ac3-bbb710d58a58",
+            "version": "0.1",
+            "authoringKey": "5977e9edd5634a26abcc7113aba9a27e",
+            "subscriptionKey": "5977e9edd5634a26abcc7113aba9a27e",
+            "region": "en-us",
+            "id": "158"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0"
+}
